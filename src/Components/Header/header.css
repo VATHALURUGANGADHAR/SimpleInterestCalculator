@@ -1,0 +1,23 @@
+* {
+    border-radius: 0px;
+    box-sizing: border-box;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    height: 100vh;
+}
+
+.leftContainer {
+    display: flex;
+    width: 100vw;
+    background-color: thistle;
+}
+
+.rightContainer {
+    display: flex;
+    width: 50vw;
+    background-color: aquamarine;
+}
